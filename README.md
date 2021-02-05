@@ -3,7 +3,7 @@ https://marcusleeeugene.github.io/tinvio_frontend_case/
 
 Objectives completed:
 1. Basic card to hold user information
-2. Basic card to hold user posts
+2. Basic card to hold user posts with scrollable feature
 3. Fetch and manipulate the given API and output onto information and post cards
 
 Optional Tasks completed:
