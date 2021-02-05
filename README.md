@@ -18,5 +18,9 @@ Steps to run application on local host:
 
 Some notes to reviewer:
 * I downloaded an external image of a phone I found as the icon-24-phone.svg in the assets folder was corrupted.
-* Could not spend more time in perfecting it, as I have school submissions to complete in the next 2 days.
-If I have more time, I would love to have added in a visual loader for data loading and created my own "cards" instead of relying on bootstrap's.
+* I could not spend more time in perfecting it, as I have many school submissions to complete in the next few days as well.
+
+If I have more time, I would love to do the following:
+- Add in a visual loader for data loading 
+- Learnt and used Redux for state management
+- Created my own "cards" instead of relying on bootstrap's
