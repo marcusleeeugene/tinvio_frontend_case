@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tinvio_frontend_case/static/css/main.2c4d2bf8.chunk.css",
-    "main.js": "/tinvio_frontend_case/static/js/main.d0af7289.chunk.js",
-    "main.js.map": "/tinvio_frontend_case/static/js/main.d0af7289.chunk.js.map",
+    "main.js": "/tinvio_frontend_case/static/js/main.d45a407a.chunk.js",
+    "main.js.map": "/tinvio_frontend_case/static/js/main.d45a407a.chunk.js.map",
     "runtime-main.js": "/tinvio_frontend_case/static/js/runtime-main.2c7e2ab8.js",
     "runtime-main.js.map": "/tinvio_frontend_case/static/js/runtime-main.2c7e2ab8.js.map",
     "static/css/2.150d169a.chunk.css": "/tinvio_frontend_case/static/css/2.150d169a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.bbb59ee1.chunk.js",
     "static/css/main.2c4d2bf8.chunk.css",
-    "static/js/main.d0af7289.chunk.js"
+    "static/js/main.d45a407a.chunk.js"
   ]
 }
