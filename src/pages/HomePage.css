@@ -1,0 +1,9 @@
+#dropDown {
+  padding: 50px;
+}
+
+.scroll {
+    max-height: 45%;
+    min-height: 45%;
+    overflow-y: auto;
+}
