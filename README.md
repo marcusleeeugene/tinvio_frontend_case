@@ -6,8 +6,8 @@ Objectives completed:
 2. Basic card to hold user posts
 3. Fetch and manipulate the given API and output onto information and post cards
 
-Optional Tasks fulfilled:
-1. Use React
+Optional Tasks completed:
+1. Used React.js
 2. Add UI to allow switch between users in list
 3. Semi-Responsive built using bootstrap
 4. Hosted on github pages
