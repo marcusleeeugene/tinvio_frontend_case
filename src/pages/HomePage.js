@@ -51,7 +51,7 @@ function HomePage() {
         <SelectUser userList={userList} retrieveUser={retrieveUser}></SelectUser>
       </Row>
       <Row>
-        <Col>
+        <Col md={6} sm={12}>
           <Card style={{ width: '30rem' }}>
             <Card.Img variant="top" src={image} />
             <Card.Body>
@@ -62,7 +62,7 @@ function HomePage() {
             </Card.Body>
           </Card>
         </Col>
-        <Col>
+        <Col md={6} sm={12}>
           <Card style={{ width: '30rem' }} className="scroll">
             <Card.Body>
               <Card.Title> {user == 0 ? "" : user.name.split(" ")[0] + "'s Posts"} </Card.Title>
