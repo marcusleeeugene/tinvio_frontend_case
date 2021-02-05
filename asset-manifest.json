@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tinvio_frontend_case/static/css/main.2c4d2bf8.chunk.css",
+    "main.js": "/tinvio_frontend_case/static/js/main.d0af7289.chunk.js",
+    "main.js.map": "/tinvio_frontend_case/static/js/main.d0af7289.chunk.js.map",
+    "runtime-main.js": "/tinvio_frontend_case/static/js/runtime-main.2c7e2ab8.js",
+    "runtime-main.js.map": "/tinvio_frontend_case/static/js/runtime-main.2c7e2ab8.js.map",
+    "static/css/2.150d169a.chunk.css": "/tinvio_frontend_case/static/css/2.150d169a.chunk.css",
+    "static/js/2.bbb59ee1.chunk.js": "/tinvio_frontend_case/static/js/2.bbb59ee1.chunk.js",
+    "static/js/2.bbb59ee1.chunk.js.map": "/tinvio_frontend_case/static/js/2.bbb59ee1.chunk.js.map",
+    "static/js/3.5a58e2c7.chunk.js": "/tinvio_frontend_case/static/js/3.5a58e2c7.chunk.js",
+    "static/js/3.5a58e2c7.chunk.js.map": "/tinvio_frontend_case/static/js/3.5a58e2c7.chunk.js.map",
+    "index.html": "/tinvio_frontend_case/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/tinvio_frontend_case/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.2c4d2bf8.chunk.css.map": "/tinvio_frontend_case/static/css/main.2c4d2bf8.chunk.css.map",
+    "static/js/2.bbb59ee1.chunk.js.LICENSE.txt": "/tinvio_frontend_case/static/js/2.bbb59ee1.chunk.js.LICENSE.txt",
+    "static/media/icon-24-shop.0fd1287d.svg": "/tinvio_frontend_case/static/media/icon-24-shop.0fd1287d.svg",
+    "static/media/image.9e56aee3.jpg": "/tinvio_frontend_case/static/media/image.9e56aee3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c7e2ab8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.bbb59ee1.chunk.js",
+    "static/css/main.2c4d2bf8.chunk.css",
+    "static/js/main.d0af7289.chunk.js"
+  ]
+}
