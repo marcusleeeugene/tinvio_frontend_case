@@ -1,7 +1,7 @@
 Live Demo:
 https://marcusleeeugene.github.io/tinvio_frontend_case/
 
-Objectived completed:
+Objectives completed:
 1. Basic card to hold user information
 2. Basic card to hold user posts
 3. Fetch and manipulate the given API and output onto information and post cards
