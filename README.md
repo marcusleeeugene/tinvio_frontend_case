@@ -9,7 +9,7 @@ Objectives completed:
 Optional Tasks completed:
 1. Used React.js
 2. Add UI to allow switch between users in list
-3. Semi-Responsive built using bootstrap
+3. Allows for responsive screen using bootstrap
 4. Hosted on github pages
 
 Steps to run application on local host:
