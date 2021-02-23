@@ -11,11 +11,14 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card'
+import InputGroup from 'react-bootstrap/InputGroup'
+import FormControl from 'react-bootstrap/Form'
 
 function HomePage() {
   const [user, setUser] = useState(0);
   const [userList, setUserList] = useState([]);
   const [post, setPost] = useState([]);
+  const [searchContent, setSearchContent] = useState("");
 
   // Get list of users from API
   useEffect(() => {
@@ -24,7 +27,11 @@ function HomePage() {
       .then(data => {
         setUserList(data);
       });
-  });
+  }, []);
+
+  // useEffect(() => {
+  //
+  // }, [searchContent])
 
   // When a user is selected in dropdown box
   useEffect(() => {
@@ -44,6 +51,10 @@ function HomePage() {
   const retrieveUser = (user) => {
     setUser(user);
   };
+
+  const handleChange = (event) => {
+    setSearchContent(event.target.value)
+  }
 
   return (
     <Container>
@@ -67,7 +78,8 @@ function HomePage() {
             <Card.Body>
               <Card.Title> {user == 0 ? "" : user.name.split(" ")[0] + "'s Posts"} </Card.Title>
               <Card.Text> {post.length + " POSTS"} </Card.Text>
-              <UserPost userPost={post}></UserPost>
+              <input type="text" id="searchBox" name="fname" value={searchContent} onChange={handleChange}/>
+              <UserPost userPost={post} searchContent={searchContent}></UserPost>
             </Card.Body>
           </Card>
         </Col>
